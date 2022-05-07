@@ -1,0 +1,6 @@
+multiverse 
+universe
+main
+restricted
+ppa:ubuntu-wine/ppa
+ppa:webupd8team/java
