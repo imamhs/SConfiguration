@@ -21,7 +21,7 @@ Linux kernel-based distributions have a vast library of applications and support
 
 ## Installation
 
-see versions.txt for supported Kubuntu versions.
+See versions.txt for supported Kubuntu versions.
 
 You need an Internet connection for updating the system repositories database and downloading new packages from the online repositories.
 
