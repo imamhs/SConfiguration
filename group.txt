@@ -21,3 +21,11 @@ sambashare
 saned
 syslog
 users
+input
+kvm
+render
+admin
+plugdev
+dip
+netdev
+adm

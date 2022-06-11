@@ -1,0 +1,21 @@
+echo ttf-mscorefonts-installer msttcorefonts/accepted-mscorefonts-eula select true | sudo debconf-set-selections
+ttf-mscorefonts-installer
+
+libpng3:i386
+python-gtk2
+python-glade2
+python-libxml2
+libgconf2-4:i386
+libfam0:i386
+libopenjpeg5:i386
+libmng2:i386
+libraw10:i386
+libgstreamer0.10-0:i386
+libgstreamer-plugins-base0.10-0:i386
+libaldmb1:i386
+libdumb1:i386
+gtk2-engines-qtcurve:i386
+libglade2-0:i386
+libphysfs1:i386
+libglew1.13:i386
+libxm4:i386
