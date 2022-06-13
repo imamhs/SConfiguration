@@ -35,7 +35,7 @@ printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 
 if [ $? -ne 0 ]
 then
-echo "Setup was unsuccessful"
+echo "32-bit packages installation was unsuccessful"
 else
 echo "Setup was successful"
 fi

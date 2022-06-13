@@ -18,4 +18,3 @@ gtk2-engines-qtcurve:i386
 libglade2-0:i386
 libphysfs1:i386
 libglew1.13:i386
-libxm4:i386
