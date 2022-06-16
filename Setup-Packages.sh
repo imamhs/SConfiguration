@@ -21,9 +21,9 @@ printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 
 if [ $? -ne 0 ]
 then
-echo "Setup was unsuccessful"
+echo "64-bit packages installation was unsuccessful"
 else
-echo "Setup was successful"
+echo "64-bit packages installation  was successful"
 fi
 
 for package in `cat $ifiles32`
@@ -37,7 +37,7 @@ if [ $? -ne 0 ]
 then
 echo "32-bit packages installation was unsuccessful"
 else
-echo "Setup was successful"
+echo "32-bit packages installation was successful"
 fi
 
 exit 0

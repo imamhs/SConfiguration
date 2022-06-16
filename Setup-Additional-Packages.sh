@@ -1,41 +1,62 @@
 #!/bin/bash 
 
-# bash script to remove and install packages on the system
-# check install.txt, install32.txt and remove.txt for packages names
+# bash script to install extra packages on the system
 
-# Copyright (C) 2014-2015 Md Imam Hossain
+# Copyright (C) 2014-2022 Md Imam Hossain
 
 # License
 #	This program is free software; you can use it for any purposes but can not redistribute it and/or modify it.
 #	This program is distributed in the hope that it will be useful but WITHOUT ANY WARRANTY.
 
-ifiles=install.txt
-ifiles32=install32.txt
-rfiles=remove.txt
+# Install additional fonts
 
-for package in `cat $ifiles`
-do
-apt-get -y install $package
-done
+echo ttf-mscorefonts-installer msttcorefonts/accepted-mscorefonts-eula select true | sudo debconf-set-selections
 
-for package in `cat $ifiles32`
-do
-apt-get -y install $package
-done
+apt-get -y install ttf-mscorefonts-installer
 
-dpkg -i ./compat/cupsys_1.4.3-1ubuntu1.9_all.deb
-dpkg -i ./compat/libgtk1.2-common_1.2.10-18.1build2_all.deb
-mkdir /usr/lib/i386-linux-gnu/pkcs11
-cp ./compat/x86/pkcs11/p11-kit-trust.so /usr/lib/i386-linux-gnu/pkcs11
-cp ./compat/x86/lib* /usr/lib/i386-linux-gnu/
-cp ./compat/x64/lib* /usr/lib/x86_64-linux-gnu/
-/usr/share/doc/libdvdread4/install-css.sh
+# Install compatibility packages
 
-for package in `cat $rfiles`
-do
-apt-get -y remove $package
-done
+dpkg -i ./compat/debs/cupsys_1.4.3-1ubuntu1.9_all.deb
+dpkg -i ./compat/debs/libffi6_3.2.1-8_amd64.deb
+dpkg -i ./compat/debs/libffi6_3.2.1-8_i386.deb
+dpkg -i ./compat/debs/libgtk1.2-common_1.2.10-18.1build2_all.deb
+dpkg -i ./compat/debs/libhal1_0.5.14-8ubuntu1_amd64.deb
+dpkg -i ./compat/debs/libhal1_0.5.14-8ubuntu1_i386.deb
 
-apt-get -y autoremove
+printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
+
+if [ $? -ne 0 ]
+then
+echo "Installing compatibility packages was unsuccessful"
+else
+echo "Installing compatibility packages was successful"
+fi
+
+# Install encrypted DVDs playback support
+
+apt-get -y install libdvd-pkg
+dpkg-reconfigure libdvd-pkg
+
+printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
+
+if [ $? -ne 0 ]
+then
+echo "Installing encrypted DVDs playback support was unsuccessful"
+else
+echo "Installing encrypted DVDs playback support was successful"
+fi
+
+# Install compatibility libraries
+
+cp -R ./compat/libs/* /
+
+printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
+
+if [ $? -ne 0 ]
+then
+echo "Copying compatibility libraries was unsuccessful"
+else
+echo "Copying compatibility libraries was successful"
+fi
 
 exit 0

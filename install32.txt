@@ -22,6 +22,8 @@ libsdl-sound1.2
 libsdl-net1.2
 libsdl-mixer1.2
 libsdl-image1.2
+libpulsedsp
+libaudio2
 libxaw7
 libglu1-mesa
 libsm6
