@@ -22,6 +22,7 @@ dpkg -i ./compat/debs/libffi6_3.2.1-8_i386.deb
 dpkg -i ./compat/debs/libgtk1.2-common_1.2.10-18.1build2_all.deb
 dpkg -i ./compat/debs/libhal1_0.5.14-8ubuntu1_amd64.deb
 dpkg -i ./compat/debs/libhal1_0.5.14-8ubuntu1_i386.deb
+dpkg -i ./compat/debs/vdpau-va-driver_0.7.4-6ubuntu1_amd64.deb
 
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 
