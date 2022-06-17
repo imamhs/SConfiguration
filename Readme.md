@@ -23,11 +23,11 @@ See versions.txt for supported Ubuntu versions.
 
 You need an Internet connection for updating the system repositories database and downloading new packages from the online repositories. Extract compat.tar.gz in the scripts folder and enable Ubuntu main, universe, restricted and multiverse repositories. Complete any pending system updrages. Finally, try running the follwing commands from the terminal to install all the support in the Ubuntu mentioned above:
 
-sudo apt-get update
-sudo apt-get install -f
-sudo ./Setup-Packages.sh
-sudo ./Setup-Groups.sh `whoami`
-sudo ./Setup-Additional-Packages.sh
+sudo apt-get update  
+sudo apt-get install -f  
+sudo ./Setup-Packages.sh  
+sudo ./Setup-Groups.sh `whoami`  
+sudo ./Setup-Additional-Packages.sh  
 
 ### Author
 
