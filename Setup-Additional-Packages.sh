@@ -23,6 +23,11 @@ dpkg -i ./compat/debs/libgtk1.2-common_1.2.10-18.1build2_all.deb
 dpkg -i ./compat/debs/libhal1_0.5.14-8ubuntu1_amd64.deb
 dpkg -i ./compat/debs/libhal1_0.5.14-8ubuntu1_i386.deb
 dpkg -i ./compat/debs/vdpau-va-driver_0.7.4-6ubuntu1_amd64.deb
+dpkg -i ./compat/debs/libgstreamer0.10-0_0.10.36-1.5ubuntu1_amd64.deb
+dpkg -i ./compat/debs/libgstreamer0.10-0_0.10.36-1.5ubuntu1_i386.deb
+dpkg -i ./compat/debs/libgstreamer-plugins-base0.10-0_0.10.36-2ubuntu0.2_amd64.deb
+dpkg -i ./compat/debs/libgstreamer-plugins-base0.10-0_0.10.36-2ubuntu0.2_i386.deb
+dpkg -i ./compat/debs/python-dbus_1.2.16-1build1_amd64.deb
 
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 

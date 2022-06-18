@@ -3,6 +3,7 @@ libopenexr25
 libtiff5
 libjpeg62
 libtheora0
+Libopenjp2-7
 libstdc++5
 libgomp1
 liblcms2-2
@@ -35,3 +36,4 @@ libgdk-pixbuf2.0-0
 libgtk2.0-0
 freeglut3
 libsdl1.2debian
+libxxf86dga1

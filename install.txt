@@ -91,6 +91,7 @@ libsox3
 fluid-soundfont-gm
 fluid-soundfont-gs
 libfreeimageplus3
+Libopenjp2-7
 libcapi20-3
 libvdpau-va-gl1
 libstdc++5
@@ -167,3 +168,4 @@ libxext6
 libgdk-pixbuf2.0-0
 libgtk2.0-0
 libsdl1.2debian
+libxxf86dga1
