@@ -28,6 +28,12 @@ dpkg -i ./compat/debs/libgstreamer0.10-0_0.10.36-1.5ubuntu1_i386.deb
 dpkg -i ./compat/debs/libgstreamer-plugins-base0.10-0_0.10.36-2ubuntu0.2_amd64.deb
 dpkg -i ./compat/debs/libgstreamer-plugins-base0.10-0_0.10.36-2ubuntu0.2_i386.deb
 dpkg -i ./compat/debs/python-dbus_1.2.16-1build1_amd64.deb
+dpkg -i ./compat/debs/libssl1.0.0_1.0.2n-1ubuntu5.3_amd64.deb
+dpkg -i ./compat/debs/libssl1.0.0_1.0.2n-1ubuntu5.9_i386.deb
+dpkg -i ./compat/debs/libssl1.1_1.1.1f-1ubuntu2.13_amd64.deb
+dpkg -i ./compat/debs/libssl1.1_1.1.1-1ubuntu2.1_18.04.17_i386.deb
+dpkg -i ./compat/debs/libldap-2.4-2_2.4.49+dfsg-2ubuntu1.9_amd64.deb
+dpkg -i ./compat/debs/libldap-2.4-2_2.4.49+dfsg-2ubuntu1.9_i386.deb
 
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 

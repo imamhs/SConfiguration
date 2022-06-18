@@ -4,6 +4,7 @@ libtiff5
 libjpeg62
 libtheora0
 Libopenjp2-7
+libsmpeg0
 libstdc++5
 libgomp1
 liblcms2-2
@@ -23,8 +24,10 @@ libsdl-sound1.2
 libsdl-net1.2
 libsdl-mixer1.2
 libsdl-image1.2
+libsdl-ttf2.0-0
 libpulsedsp
 libaudio2
+libgssapi3-heimdal
 libxaw7
 libglu1-mesa
 libsm6
@@ -37,3 +40,4 @@ libgtk2.0-0
 freeglut3
 libsdl1.2debian
 libxxf86dga1
+libgtk-3-0
