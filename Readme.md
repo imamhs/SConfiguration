@@ -26,7 +26,7 @@ You need an Internet connection for updating the system repositories database an
 sudo apt-get update  
 sudo apt-get install -f  
 sudo ./Setup-Packages.sh  
-sudo ./Setup-Groups.sh [enter user name here]  
+sudo ./Setup-Groups.sh enter_user_name_here  
 sudo ./Setup-Additional-Packages.sh  
 sudo ./Setup-Links.sh
 
