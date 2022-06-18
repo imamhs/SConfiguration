@@ -34,6 +34,7 @@ cdck
 binutils
 binutils-common
 binutils-x86-64-linux-gnu
+mc
 obexfs
 go-mtpfs
 reiser4progs
