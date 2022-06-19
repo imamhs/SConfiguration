@@ -3,3 +3,4 @@ universe
 main
 restricted
 ppa:lutris-team/lutris
+ppa:cdemu/ppa

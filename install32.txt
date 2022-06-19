@@ -41,3 +41,4 @@ freeglut3
 libsdl1.2debian
 libxxf86dga1
 libgtk-3-0
+libpangoxft-1.0-0
