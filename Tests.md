@@ -20,3 +20,12 @@ The following Programs are some examples known to work with the package on Ubunt
 - Knights and Merchants The Shattered Kingdom
 - Helena The 3rd
 - Zero Ballistics
+- Caster
+- CoreBreach
+- FamilyFarm
+- Puzzle Moppet
+- Toki Tori 2
+- Runner 3
+- Bridge Constructor
+- Assault Android Cactus
+- Brutal Legend
