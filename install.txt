@@ -35,6 +35,8 @@ binutils
 binutils-common
 binutils-x86-64-linux-gnu
 mc
+osspd
+osspd-pulseaudio
 python2
 python2-minimal
 python2.7

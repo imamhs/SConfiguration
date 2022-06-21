@@ -5,6 +5,8 @@ The following Programs are some examples known to work with the package on Ubunt
 
 ## Programs
 
+- Zsnes
+- Lightsmark 2008
 - Supermodel
 - RockNES
 - DarcNES
@@ -49,3 +51,19 @@ The following Programs are some examples known to work with the package on Ubunt
 - RC Mini Racers
 - Hyperspace Delivery Boy!
 - Tribal Trouble
+- Beans Quest
+- Beep
+- Escape Goat 2
+- The Clockwork Man - The Hidden World
+- The Clockwork Man
+- Professor Fizzwizzle
+- Ziggurat 2
+- Sanctum 2
+- Rogue Legacy
+- CARRION
+- CLARC
+- Commandos 2 - HD Remaster
+- Dirk Dashing Secret Agent! Special Edition
+- Fieldrunners 2
+- Fieldrunners
+- RealPlayer11GOLD
