@@ -3,6 +3,8 @@ Programs tested
 
 The following Programs are some examples known to work with the package on Ubuntu 22.04:  
 
+## Programs
+
 - Supermodel
 - RockNES
 - DarcNES
@@ -14,6 +16,15 @@ The following Programs are some examples known to work with the package on Ubunt
 - Mupen64
 - VisualBoyAdvance
 - XMMS
+- Corel LinDVD
+- Google Earth
+- XnSoft XnViewMP
+- WPS Office
+- Nero Linux 4
+- Free Download Manager
+
+## Games
+
 - TileRacer
 - Serious Sam 2
 - Robin Hood The Legend of Sherwood
@@ -29,3 +40,12 @@ The following Programs are some examples known to work with the package on Ubunt
 - Bridge Constructor
 - Assault Android Cactus
 - Brutal Legend
+- angvik
+- Capsized
+- Colin McRae Rally Remastered
+- Horizon Chase Turbo
+- HUNTDOWN
+- Rage Runner
+- RC Mini Racers
+- Hyperspace Delivery Boy!
+- Tribal Trouble

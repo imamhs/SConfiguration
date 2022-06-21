@@ -35,8 +35,12 @@ binutils
 binutils-common
 binutils-x86-64-linux-gnu
 mc
-osspd
-osspd-pulseaudio
+python2
+python2-minimal
+python2.7
+python2.7-minimal
+execstack
+openjdk-18-jre
 obexfs
 go-mtpfs
 reiser4progs
@@ -137,6 +141,10 @@ libaudio2
 libmuparser2v5
 libgssapi3-heimdal
 libfann2
+libpython2-stdlib
+libpython2.7-minimal
+libpython2.7-stdlib
+libudev0
 libsdl2-2.0-0
 freeglut3
 libglew2.2
