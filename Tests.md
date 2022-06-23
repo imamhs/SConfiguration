@@ -1,7 +1,7 @@
-Programs tested
+Applications tested
 ------------
 
-The following Programs are some examples known to work with the package on Ubuntu 22.04:  
+The following applications are some examples known to work with the package on Ubuntu 22.04:  
 
 ## Programs
 
@@ -24,6 +24,14 @@ The following Programs are some examples known to work with the package on Ubunt
 - WPS Office
 - Nero Linux 4
 - Free Download Manager
+- RealPlayer 11 GOLD
+- RealPlayer 8.0.3
+- Vuescan
+- Acrobat Reader 9.5.5
+- Acrobat Reader 5.08
+- QCAD Professional 3
+- StarOffice 7
+- StarOffice 5.2
 
 ## Games
 
@@ -38,6 +46,7 @@ The following Programs are some examples known to work with the package on Ubunt
 - FamilyFarm
 - Puzzle Moppet
 - Toki Tori 2
+- Toki Tori
 - Runner 3
 - Bridge Constructor
 - Assault Android Cactus
@@ -66,4 +75,20 @@ The following Programs are some examples known to work with the package on Ubunt
 - Dirk Dashing Secret Agent! Special Edition
 - Fieldrunners 2
 - Fieldrunners
-- RealPlayer11GOLD
+- Trine
+- Ziggurat
+- Yooka Laylee
+- World of Goo
+- Vessel
+- Night Sky
+- Kingdom Rush Frontiers
+- Car Mechanic Simulator 2015
+- Breach & Clear
+- Voxatron
+- Stealth Bastard Deluxe
+- Swords & Soldiers
+- EDGE
+- Construction Simulator 2015
+- And Yet It Moves
+- Steel Storm
+- Soul Ride

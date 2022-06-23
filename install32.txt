@@ -5,6 +5,7 @@ libjpeg62
 libtheora0
 Libopenjp2-7
 libsmpeg0
+libavformat58
 libstdc++5
 libgomp1
 liblcms2-2
@@ -28,6 +29,9 @@ libsdl-ttf2.0-0
 libpulsedsp
 libaudio2
 libgssapi3-heimdal
+libgconf-2-4
+libboost-filesystem1.74.0
+libboost-system1.74
 libxaw7
 libglu1-mesa
 libsm6
