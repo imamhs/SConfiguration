@@ -96,3 +96,7 @@ The following applications are some examples known to work with the package on U
 - And Yet It Moves
 - Steel Storm
 - Soul Ride
+- ManiaDrive
+- Astromenace
+- Chromium B.S.U.
+- Tuxkart 0.4.0

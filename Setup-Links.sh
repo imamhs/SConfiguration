@@ -11,6 +11,7 @@
 ln -sf /usr/lib/x86_64-linux-gnu/libGLEW.so.1.13 /usr/lib/x86_64-linux-gnu/libGLEW.so.1.5
 ln -sf /usr/lib/x86_64-linux-gnu/libGLEW.so.1.13 /usr/lib/x86_64-linux-gnu/libGLEW.so.1.6
 ln -sf /usr/lib/x86_64-linux-gnu/libGLEW.so.1.13 /usr/lib/x86_64-linux-gnu/libGLEW.so.1.8
+ln -sf /usr/lib/x86_64-linux-gnu/libGLEW.so.2.2 /usr/lib/x86_64-linux-gnu/libGLEW.so.2.1
 ln -sf /usr/lib/x86_64-linux-gnu/libopenal.so.1 /usr/lib/x86_64-linux-gnu/libopenal.so.0
 ln -sf /usr/lib/x86_64-linux-gnu/libaldmb.so.1 /usr/lib/x86_64-linux-gnu/libaldmb-0.9.3.so
 ln -sf /usr/lib/x86_64-linux-gnu/libdumb.so.1 /usr/lib/x86_64-linux-gnu/libdumb-0.9.3.so

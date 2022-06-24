@@ -34,6 +34,8 @@ dpkg -i ./compat/debs/libldap-2.4-2_2.4.49+dfsg-2ubuntu1.9_amd64.deb
 dpkg -i ./compat/debs/libldap-2.4-2_2.4.49+dfsg-2ubuntu1.9_i386.deb
 dpkg -i ./compat/debs/libidn11_1.33-3_amd64.deb
 dpkg -i ./compat/debs/libidn11_1.33-3_i386.deb
+dpkg -i ./compat/debs/libtinyxml2-8_8.1.0+really8.0.0+dfsg-1_amd64.deb
+dpkg -i ./compat/debs/libtinyxml2-8_8.1.0+really8.0.0+dfsg-1_i386.deb
 
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 
