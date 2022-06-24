@@ -32,6 +32,10 @@ The following applications are some examples known to work with the package on U
 - QCAD Professional 3
 - StarOffice 7
 - StarOffice 5.2
+- Maya 7.0.1
+- Maya 8.5
+- Flash Player 9
+- Flash Player 32
 
 ## Games
 
