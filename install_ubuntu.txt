@@ -1,0 +1,15 @@
+jstest-gtk
+gnome-disk-utility
+synaptic
+gparted
+lshw-gtk
+psensor
+hardinfo
+smplayer
+smplayer-themes
+vlc
+gimp
+inkscape
+mpv
+pavucontrol-qt
+guvcview

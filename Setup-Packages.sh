@@ -11,6 +11,7 @@
 
 ifiles=install.txt
 ifiles32=install32.txt
+ifilesu=install_ubuntu.txt
 
 for package in `cat $ifiles`
 do
@@ -38,6 +39,20 @@ then
 echo "32-bit packages installation was unsuccessful"
 else
 echo "32-bit packages installation was successful"
+fi
+
+for package in `cat $ifilesu`
+do
+apt-get -y install $package
+done
+
+printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
+
+if [ $? -ne 0 ]
+then
+echo "System tools packages installation was unsuccessful"
+else
+echo "System tools packages installation  was successful"
 fi
 
 exit 0

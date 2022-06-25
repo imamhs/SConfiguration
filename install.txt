@@ -43,6 +43,9 @@ python2.7
 python2.7-minimal
 execstack
 openjdk-18-jre
+net-tools
+csh
+flatpak
 obexfs
 go-mtpfs
 reiser4progs

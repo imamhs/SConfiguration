@@ -1,0 +1,7 @@
+plasma-discover-backend-flatpak
+plasma-discover-backend-snap
+plasma-discover-backend-snap
+kolourpaint
+krdc
+filelight
+kfind
