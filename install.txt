@@ -154,6 +154,12 @@ libgconf-2-4
 libboost-filesystem1.74.0
 libboost-system1.74
 libgamin0
+libsfml-network2.5
+libsfml-audio2.5
+libhidapi-hidraw0
+libaio1
+libnotify4
+libx86-1
 libsdl2-2.0-0
 freeglut3
 libglew2.2
@@ -195,3 +201,5 @@ libxxf86dga1
 libgtk-3-0
 libpangoxft-1.0-0
 libftgl2
+libsfml-graphics2.5
+libwxbase3.0-0v5

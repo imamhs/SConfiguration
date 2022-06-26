@@ -32,6 +32,9 @@ libgssapi3-heimdal
 libgconf-2-4
 libboost-filesystem1.74.0
 libboost-system1.74
+libaio1
+libnotify4
+libx86-1
 libxaw7
 libglu1-mesa
 libsm6
@@ -46,3 +49,4 @@ libsdl1.2debian
 libxxf86dga1
 libgtk-3-0
 libpangoxft-1.0-0
+libwxbase3.0-0v5

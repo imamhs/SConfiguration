@@ -36,6 +36,21 @@ The following applications are some examples known to work with the package on U
 - Maya 8.5
 - Flash Player 9
 - Flash Player 32
+- Opera 10.10
+- ePSXe
+- Dolphin 5.0-12460
+- Snes9x-gtk 1.53
+- Xe 2.16.2
+- ZiNc 1.1
+- VGBA 6.4
+- VGB 6
+- Raine
+- Bsnes 115
+- FBNeo 1.0.0.2
+- FCE Ultra .81
+- Gens 2.15.4
+- KiGB 2.0.2
+- Osmose 0.9.96
 
 ## Games
 
