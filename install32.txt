@@ -35,6 +35,9 @@ libboost-system1.74
 libaio1
 libnotify4
 libx86-1
+libsdl-gfx1.2-5
+libpython2.7
+libncursesw5
 libxaw7
 libglu1-mesa
 libsm6

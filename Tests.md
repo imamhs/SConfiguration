@@ -51,6 +51,7 @@ The following applications are some examples known to work with the package on U
 - Gens 2.15.4
 - KiGB 2.0.2
 - Osmose 0.9.96
+- XMovie
 
 ## Games
 

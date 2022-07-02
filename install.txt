@@ -160,6 +160,8 @@ libhidapi-hidraw0
 libaio1
 libnotify4
 libx86-1
+libpython2.7
+libncursesw5
 libsdl2-2.0-0
 freeglut3
 libglew2.2
