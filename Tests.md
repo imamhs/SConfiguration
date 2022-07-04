@@ -52,6 +52,9 @@ The following applications are some examples known to work with the package on U
 - KiGB 2.0.2
 - Osmose 0.9.96
 - XMovie
+- Tracker 5
+- SoftMaker Office 2010
+- Vuze 4.3.1.4
 
 ## Games
 
@@ -116,3 +119,8 @@ The following applications are some examples known to work with the package on U
 - Astromenace
 - Chromium B.S.U.
 - Tuxkart 0.4.0
+- Gorky 17
+- Dead Cyborg
+- Irukandji
+- Flashback
+- Kohan: Immortal Sovereigns

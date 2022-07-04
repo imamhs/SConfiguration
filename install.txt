@@ -4,6 +4,7 @@ unace-nonfree
 p7zip-full
 cabextract
 libbz2-1.0
+squashfs-tools-ng
 obexftp
 openobex-apps
 mtp-tools
@@ -46,6 +47,8 @@ openjdk-18-jre
 net-tools
 csh
 flatpak
+squashfuse
+xdg-user-dirs
 obexfs
 go-mtpfs
 reiser4progs
