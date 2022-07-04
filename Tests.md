@@ -124,3 +124,5 @@ The following applications are some examples known to work with the package on U
 - Irukandji
 - Flashback
 - Kohan: Immortal Sovereigns
+- AssaultCube
+- ReTux
