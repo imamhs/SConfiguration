@@ -34,6 +34,7 @@ sudo ./Setup-Groups.sh enter_user_name_here
 sudo ./Setup-Additional-Packages.sh  
 sudo ./Setup-Links.sh  
 sudo ./Setup-Development-Packages.sh  
+sudo ./Post-Configure.sh  
 
 ## Programs supported
 
