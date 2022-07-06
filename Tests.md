@@ -126,3 +126,6 @@ The following applications are some examples known to work with the package on U
 - Kohan: Immortal Sovereigns
 - AssaultCube
 - ReTux
+- Boson X
+- Buggy Race
+- Sacred Gold
