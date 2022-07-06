@@ -208,3 +208,7 @@ libpangoxft-1.0-0
 libftgl2
 libsfml-graphics2.5
 libwxbase3.0-0v5
+libegl1-mesa
+libgtk-4-1
+libgtk-4-common
+libxcb-xtest0
