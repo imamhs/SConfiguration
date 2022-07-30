@@ -38,6 +38,7 @@ libx86-1
 libsdl-gfx1.2-5
 libpython2.7
 libncursesw5
+libva-glx2
 libnewt0.52
 libsane1
 libpam0g
