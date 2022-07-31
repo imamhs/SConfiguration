@@ -40,6 +40,7 @@ libpython2.7
 libncursesw5
 libva-glx2
 libxkbcommon-x11-0
+libxcb-xinerama0
 libnewt0.52
 libsane1
 libpam0g
