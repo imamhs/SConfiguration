@@ -1,6 +1,7 @@
 audio
 bluetooth
 cdrom
+optical
 colord
 dialout
 disk
