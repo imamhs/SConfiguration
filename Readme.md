@@ -38,7 +38,7 @@ sudo ./Post-Configure.sh
 
 ## Programs supported
 
-The goal of this package is to enable almost all 32-Bit and 64-Bit programs and games to work available on Linux. Some programs which are not designed to be glibc and kernel portable will not work as usual. Programs using most common applications frameworks (i.e. GTK, SDL) should behave normally. Check out **Tests.md** document to find out programs which are varified to work.
+The goal of this package is to enable almost all 32-Bit and 64-Bit programs and games to work available on Linux. Some programs which are not designed to be glibc and kernel portable will not work as usual. Programs using most common applications frameworks (i.e. GTK, SDL) should behave normally. Check out **Tests.md** document to find out programs which are verified to work.
 
 ### Package created by (a GNU/Linux enthusiast)
 
