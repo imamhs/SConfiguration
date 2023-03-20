@@ -42,4 +42,4 @@ The goal of this package is to enable almost all 32-Bit and 64-Bit programs and 
 
 ### Package created by (a GNU/Linux enthusiast)
 
-Md Imam Hossain (emamhd@gmail.com)Tests.md
+Imam Hossain (emamhd@gmail.com)
