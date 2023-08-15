@@ -1,6 +1,6 @@
 Copyright notice:
 
-(C) 2016-2022 Md. Imam Hossain([emamhd@gmail.com](mailto:emamhd@gmail.com))
+(C) 2016-2022 Md Imam Hossain([emamhd@gmail.com](mailto:emamhd@gmail.com))
 
 This software is provided 'as-is', without any express or implied
 warranty.  In no event will the authors be held liable for any damages
