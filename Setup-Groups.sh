@@ -5,8 +5,7 @@
 # Copyright (C) 2014-2015 Md Imam Hossain
 
 # License
-#	This program is free software; you can use it for any purposes but can not redistribute it and/or modify it.
-#	This program is distributed in the hope that it will be useful but WITHOUT ANY WARRANTY.
+# See License.md for more details
 
 gfiles=group.txt
 
