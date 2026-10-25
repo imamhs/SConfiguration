@@ -1,8 +1,8 @@
 ## About (SConfiguration)
 
-I wanted to have a modern GNU/Linux distribution that will be able to run all different games and third party applications without having to install different distributions on different machines. Also, modern GNU/Linux distributions do not ship with support for legacy and classic applications and games. So, I created this package that allowed me to setup a stable modern GNU/Linux distribution with various supports not found by default in new GNU/Linux distributions.
+I wanted to have a modern GNU/Linux distribution that will be able to run all different games and third party applications without having to install different distributions on different machines. Also, modern GNU/Linux distributions do not ship with the support for legacy and classic applications and games. So, I created this package that allowed me to setup a stable modern GNU/Linux distribution such as Ubuntu with various supports not found by default in new GNU/Linux distributions.
 
-Linux kernel-based distributions have a vast library of applications and support for various needs. This package contains scripts that are designed for setting up a backword compatible complete Linux desktop for freshly installed Ubuntu GNU/Linux operating system for desktop applications and gaming needs. Hence, it provides the following for everyday Linux usage:
+Linux kernel-based distributions have a vast library of applications and support for various needs. This package contains scripts that are designed for setting up a backward compatible complete Linux desktop for freshly installed Ubuntu GNU/Linux operating system for desktop applications and gaming needs. Hence, it provides the following for everyday Linux usage:
 
 - Allow running classic games and applications
   
@@ -25,7 +25,7 @@ Linux kernel-based distributions have a vast library of applications and support
 
 See versions.txt for supported Ubuntu versions.
 
-You need an Internet connection for updating the system repositories database and downloading new packages from the online repositories. Extract compat.tar.gz in the scripts folder and enable Ubuntu main, universe, restricted and multiverse repositories. Complete any pending system updrages. Finally, try running the follwing commands from the terminal to install all the support in the Ubuntu mentioned above:
+You need an Internet connection for updating the system repositories database and downloading new packages from the online repositories. Extract compat.tar.gz in the scripts folder and enable Ubuntu main, universe, restricted and multiverse repositories. Complete any pending system upgrades. Finally, try running the following commands from the terminal to install all the support in the Ubuntu mentioned above:
 
 sudo apt-get update  
 sudo apt-get install -f  
@@ -40,6 +40,6 @@ sudo ./Post-Configure.sh
 
 The goal of this package is to enable almost all 32-Bit and 64-Bit programs and games to work available on Linux. Some programs which are not designed to be glibc and kernel portable will not work as usual. Programs using most common applications frameworks (i.e. GTK, SDL) should behave normally. Check out **Tests.md** document to find out programs which are verified to work.
 
-### Package created by (a GNU/Linux enthusiast)
+### Package details
+Shared libraries in this package come from respective freely available online sources and classic Linux distributions bundles.
 
-Imam Hossain (emamhd@gmail.com)
