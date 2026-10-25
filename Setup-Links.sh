@@ -5,8 +5,7 @@
 # Copyright (C) 2014-2022 Md Imam Hossain
 
 # License
-#	This program is free software; you can use it for any purposes but can not redistribute it and/or modify it.
-#	This program is distributed in the hope that it will be useful but WITHOUT ANY WARRANTY.
+# See License.md for more details
 
 ln -sf /usr/lib/x86_64-linux-gnu/libGLEW.so.1.13 /usr/lib/x86_64-linux-gnu/libGLEW.so.1.5
 ln -sf /usr/lib/x86_64-linux-gnu/libGLEW.so.1.13 /usr/lib/x86_64-linux-gnu/libGLEW.so.1.6
