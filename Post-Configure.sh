@@ -1,3 +1,6 @@
+# License
+# See License.md for more details
+
 # update font cache files
 
 fc-cache -vr
