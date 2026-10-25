@@ -19,7 +19,8 @@ Linux kernel-based distributions have a vast library of applications and support
 - Additional libraries for supporting various games and applications
   
 - Optimise access to system resources for better gaming and peripheral support
-  
+
+The scripts provided will install packages from official Ubuntu repositories, change groups settings for the user, add additional libraries and files into the system folders, create links into the system folders, etc. You can have a look on each script ie Setup-Groups.sh to verify the script actions before proceeding.
 
 ## Installation
 
